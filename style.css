@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body { 
+    background-color: rgb(85, 153, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+section {
+    background-color: aliceblue;
+    max-width: 600px;
+    border-radius: 15px;
+   
+}
+
+button {
+    height: 30px;
+    font-size: 16px;
+    background-color: green;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color: green;
+}
+
+img {
+    width: 600px;
+    height:330px ;
+    border-radius: 15px;
+}
+
+body {
+    background: linear-gradient(135deg, #5b97ff 25%, transparent 25%) -50px 0,
+                linear-gradient(225deg, #54bff9 25%, transparent 25%) -50px 0,
+                linear-gradient(315deg, #7dceeb 25%, transparent 25%),
+                linear-gradient(45deg, #213ba3 25%, transparent 25%);
+    background-size: 120px 120px;
+}
+
+input {
+    height: 18px;
+}
